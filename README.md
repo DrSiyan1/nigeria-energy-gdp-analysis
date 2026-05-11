@@ -143,7 +143,7 @@ jupyter notebook
 ---
 
 ## Related Projects
-gulf-renewable-energy-analysis
+https://github.com/DrSiyan1/gulf-renewable-energy-analysis
 
 
 ## About the Analyst
