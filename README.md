@@ -142,6 +142,10 @@ jupyter notebook
 
 ---
 
+## Related Projects
+gulf-renewable-energy-analysis
+
+
 ## About the Analyst
 
 This project was completed as part of a data analytics portfolio development programme,
